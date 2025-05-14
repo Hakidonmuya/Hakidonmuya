@@ -13,11 +13,3 @@
 <h2 align="left"></h2>
 
 ###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=5&username=Hakidonmuya&theme=aura_dark" alt="Layout with last medium posts"  />
-</div>
-
-###
