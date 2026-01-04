@@ -1,4 +1,5 @@
-<p align="left">Hey! Im Hakidonmuya ☾<br><br>    ⋘ 𝑙𝑜𝑎𝑑𝑖𝑛𝑔 𝑑𝑎𝑡𝑎... ⋙<br><br>█▒▒▒▒▒▒▒▒▒ 10 %<br>███▒▒▒▒▒▒▒ 25 %<br>█████▒▒▒▒▒ 50 % <br>███████▒▒▒ 75 %<br>██████████ 100 %<br><br>ᴄᴏᴍᴘʟᴇᴛᴇ! <br><br>Im currently learning. <br>Please come back later!</p>
+<p align="left"> <br> Called a problem child 'cause I got too wild <br>
+But now that's how I'm getting paid </p>
 
 ###
 
